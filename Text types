@@ -33,7 +33,8 @@ These are all the gold medalists of team Canada.
 <br>
 These were the medals standings for the top ten countries
 <li> 1.United States 2.Great Britain 3.China 4.Russia 5.Germany 6.Japan 7.France 8.South Korea 9.Italy 10.Australia </li>
-<div> By Liam Johnston
+<div style="background-color:blue;color:black;padding:20px;">
+<p> By Liam Johnston </p>
 <!-- That was a div block -->
 </body>
 </html>
