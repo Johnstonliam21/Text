@@ -2,6 +2,7 @@
 <html>
 <title>HTML Tutorial</title>
 <body>
+<body background="brazil-flag.png">
 <center>
 <font size=50> <h1> RIO Olympics</h1> </font>
 
@@ -36,3 +37,5 @@ These were the medals standings for the top ten countries
 <!-- That was a div block -->
 </body>
 </html>
+
+
