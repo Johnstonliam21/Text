@@ -35,30 +35,31 @@ These were the medals standings for the top ten countries
 <li> 1.United States 2.Great Britain 3.China 4.Russia 5.Germany 6.Japan 7.France 8.South Korea 9.Italy 10.Australia </li>
 <div style="background-color:blue;color:black;padding:20px;">
 <p> By Liam Johnston </p>
-<!-- That was a div block -->
+<!-- That was a div block !-->
 <form>
   User name:<br>
   <input type="text" name="username"><br>
   User password:<br>
   <input type="password" name="psw">
 </form>
+
 <form action="">
-  <input type="radio" name="gender" value="male"> Male<br>
-  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="male"> Canadian<br>
+  <input type="radio" name="gender" value="female"> American<br>
   <input type="radio" name="gender" value="other"> Other
 </form>
 <form action="demo_form.asp">
-  <input type="checkbox" name="vehicle" value="Bike"> I have a bike<br>
-  <input type="checkbox" name="vehicle" value="Car" checked>I have a car<br>
+  <input type="checkbox" name="vehicle" value="Bike"> I am an athlete<br>
+  <input type="checkbox" name="vehicle" value="Car" checked>I am not an athlete<br>
   <input type="submit" value="Submit">
 </form>
 <form action="action_page.php">
   First name:<br>
-  <input type="text" name="firstname" value="Mickey"><br>
+  <input type="text" name="firstname" value="Micheal"><br>
   Last name:<br>
-  <input type="text" name="lastname" value="Mouse"><br><br>
+  <input type="text" name="lastname" value="Phelps"><br><br>
   <input type="submit" value="Submit">
-</form>
 </body>
 </html>
+
 
